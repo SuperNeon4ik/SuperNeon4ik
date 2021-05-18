@@ -1,4 +1,10 @@
-### Hi there 👋
+### Hey! I'm SuperNeon4ik.
+---
+I love coding, so I do some.
+---
+# Some of my stuff
+[![YouTube](https://img.shields.io/youtube/channel/subscribers/UCesTpB2QEv95GvMlA8cl41A?label=SuperNeon4ik&style=social)](https://www.youtube.com/channel/UCesTpB2QEv95GvMlA8cl41A?sub_confirmation=1)
+[![Discord Community](https://discord.com/api/guilds/831798567043334165/widget.png?style=shield)](https://discord.gg/EAuCE4aCeV)
 
 <!--
 **SuperNeon4ik/SuperNeon4ik** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
