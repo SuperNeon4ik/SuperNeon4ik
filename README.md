@@ -12,8 +12,6 @@
 
 Support me on [Patreon](https://www.patreon.com/superneon4ik)!
 
-Follow me on <a rel="me" href="https://social.kyiv.dcomm.net.ua/@neon">Mastodon</a>!
-
 ---
 <a href="https://github.com/SuperNeon4ik">
   <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api?username=SuperNeon4ik&show_icons=true&include_all_commits=true&theme=dark" alt="SuperNeon4ik's github stats" />
