@@ -4,7 +4,7 @@ I'm Nazar, better known as **SuperNeon4ik**. I'm a little silly, so don't mind.
 <details>
   <summary><h2>🔥 GitHub Streak</h2></summary>
   <a href="https://git.io/streak-stats">
-    <img src="https://streak-stats.demolab.com?user=SuperNeon4ik&theme=dark&locale=uk&exclude_days=Tue" alt="GitHub Streak">
+    <img src="https://streak-stats.demolab.com?user=SuperNeon4ik&theme=dark&locale=en&exclude_days=Tue" alt="GitHub Streak">
   </a>
 </details>
 
