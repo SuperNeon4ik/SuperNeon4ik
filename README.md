@@ -1,9 +1,8 @@
 # こんにちは、みんな！
-I'm Nazar, better known as **SuperNeon4ik**. I'm 🇺🇦 Ukrainian! I'm a little silly, so don't mind.
 
 <details open>
   <summary><h2>👀 Quick Overview</h2></summary>
-  <p>I am not much of an open-source developer, but whatever I can open-source, I will :3</p>
+  <p>I'm Nazar, better known online as <b>SuperNeon4ik</b>. I'm 🇺🇦 Ukrainian! <i>(I live in Kyiv, so I am in a reasonably safe place, dw)</i> I'm a little silly, so don't mind. I am not much of an open-source developer, but whatever I can open-source, I will :3</p>
 
   <picture>
     <source
