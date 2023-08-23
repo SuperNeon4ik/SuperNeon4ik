@@ -18,6 +18,12 @@ I'm Nazar, better known as **SuperNeon4ik**. I'm 🇺🇦 Ukrainian! I'm a littl
   </picture>
 </details>
 
+<details open>
+  <summary><h2>❤️ Support Me!</h2></summary>
+
+  <p>I am Ukrainian. I live in Ukraine. Please first consider donating to <a href="https://savelife.in.ua/donate/">Come Back Alive</a>. If you wish to support me, I am very happy to recieve your donation over <a href="https://patreon.com/SuperNeon4ik">Patreon</a>! I am very greatful for every single cent you donate. I hope the war will end soon.</p>
+</details>
+
 <details>
   <summary><h2>💪 My Skills</h2></summary>
 
