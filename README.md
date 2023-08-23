@@ -138,7 +138,7 @@
 <details>
   <summary><h2>🌐 Socials</h2></summary>
 
-  <p>I am everywhere.</p>
+  <p>I am everywhere, even in your walls.</p>
   <ul>
     <li>
       <p>Twitter/X 🤓</p>
@@ -152,6 +152,6 @@
     <li><a href="https://youtube.com/@SuperNeon4ik">YouTube</a></li>
     <li><a href="https://twitch.tv/SuperNeon4ik">Twitch</a></li>
     <li><a href="https://open.spotify.com/artist/28pRxb8uBLppv85gXDHyhV?si=21d9eff5909f4823">Spotify</a></li>
-    <li>You should visit <a href="https://superneon4ik.me">my personal website</a> :3</li>
+    <li>You should also visit <a href="https://superneon4ik.me">my personal website</a> :3</li>
   </ul>
 </details>
