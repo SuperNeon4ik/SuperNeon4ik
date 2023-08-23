@@ -1,14 +1,44 @@
-### Hey! I'm SuperNeon4ik.
-+ I do stuff.
-+ I love coding.
-+ I do some stupid things, lmao.
+# こんにちは、みんな！
+I'm Nazar, better known as **SuperNeon4ik**. I'm a little silly, so don't mind.
 
-Support me on [Patreon](https://www.patreon.com/superneon4ik)!
+<details>
+  <summary><h2>🔥 GitHub Streak</h2></summary>
+  <a href="https://git.io/streak-stats">
+    <img src="https://streak-stats.demolab.com?user=SuperNeon4ik&theme=dark&locale=uk&exclude_days=Tue" alt="GitHub Streak">
+  </a>
+</details>
 
----
-<a href="https://github.com/SuperNeon4ik">
-  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api?username=SuperNeon4ik&show_icons=true&include_all_commits=true&theme=dark" alt="SuperNeon4ik's github stats" />
-</a>
-<a href="https://github.com/SuperNeon4ik">
-  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=SuperNeon4ik&layout=compact&theme=dark" />
-</a>
+<details>
+  <summary><h2>🤓 Languages</h2></summary>
+  <p>I am a big nerd and I like learning languages in my free time.</p>
+  <table>
+    <tr>
+      <th>Language</th>
+      <th>Level</th>
+    </tr>
+    <tr>
+      <td>🇺🇦 Українська</td>
+      <td>Native</td>
+    </tr>
+    <tr>
+      <td>🏳️ Русский</td>
+      <td>Native</td>
+    </tr>
+    <tr>
+      <td>🇬🇧 English</td>
+      <td>B2 <i>(or better, idk)</i></td>
+    </tr>
+    <tr>
+      <td>🇩🇪 Deutsch</td>
+      <td>A1</td>
+    </tr>
+    <tr>
+      <td>🇯🇵 日本語</td>
+      <td>Beginner</td>
+    </tr>
+    <tr>
+      <td>🇱🇹 Lietuvių</td>
+      <td>Beginner</td>
+    </tr>
+  </table>
+</details>
