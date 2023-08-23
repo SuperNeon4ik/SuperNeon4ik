@@ -71,6 +71,29 @@
 </details>
 
 <details>
+  <summary><h2>🛠️ Projects</h2></summary>
+
+  <h3>Minecraft Mayhem</h3>
+  <img width="750" src="assets/mayhem-logo.jpg" alt="Minecraft Mayhem Logo" />
+  <p>I am a plugin developer for a Minecraft Event called "Minecraft Mayhem". You should check it out one day. It's hosted once a month on Saturdays!</p>
+  <ul>
+    <li><a href="https://discord.gg/mcmayhem">Discord Server</a></li>
+    <li><a href="https://twitter.com/ItsMCMayhem">Twitter/X</a></li>
+    <li><a href="https://www.twitch.tv/itsmcmayhem">Twitch</a></li>
+    <li><a href="https://www.youtube.com/@itsmcmayhem">YouTube</a></li>
+    <li><a href="https://tiktok.com/@itsmcmayhem">TikTok</a></li>
+    <li><a href="https://mcmayhem.live/">Live Scoring Website</a></li>
+  </ul>
+
+  <h3>NoxesiumUtils</h3>
+  <p>A paper plugin to communicate with the <a href="https://github.com/Noxcrew/noxesium">Noxesium mod</a>.</p>
+  <ul>
+    <li><a href="https://modrinth.com/plugin/noxesiumutils">Modrinth</a></li>
+    <li><a href="https://github.com/SuperNeon4ik/NoxesiumUtils">Source Code</a></li>
+  </ul>
+</details>
+
+<details>
   <summary><h2>🔥 GitHub Streak</h2></summary>
   <a href="https://git.io/streak-stats">
     <img src="https://streak-stats.demolab.com?user=SuperNeon4ik&theme=dark&locale=en" alt="GitHub Streak">
