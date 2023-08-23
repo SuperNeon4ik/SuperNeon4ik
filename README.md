@@ -112,7 +112,7 @@
   </table>
 </details>
 
-<details open>
+<details>
   <summary><h2>🌐 Socials</h2></summary>
 
   <p>I am everywhere.</p>
