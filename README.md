@@ -74,7 +74,7 @@
 <details>
   <summary><h2>🔥 GitHub Streak</h2></summary>
   <a href="https://git.io/streak-stats">
-    <img src="https://streak-stats.demolab.com?user=SuperNeon4ik&theme=dark&locale=en&exclude_days=Tue" alt="GitHub Streak">
+    <img src="https://streak-stats.demolab.com?user=SuperNeon4ik&theme=dark&locale=en" alt="GitHub Streak">
   </a>
 </details>
 
