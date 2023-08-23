@@ -66,8 +66,7 @@
   <ul>
     <li>GitHub Actions</li>
     <li>Chrome/Firefox Extension Development <i>(a little)</i></li>
-    <li>Java <i>(duh)</i></li>
-
+    <li>Java <i>(duh)</i></li>    
   </ul>
 </details>
 
@@ -111,4 +110,25 @@
       <td>Beginner</td>
     </tr>
   </table>
+</details>
+
+<details open>
+  <summary><h2>🌐 Socials</h2></summary>
+
+  <p>I am everywhere.</p>
+  <ul>
+    <li>
+      <p>Twitter/X 🤓</p>
+      <ul>
+        <li><a href="https://twitter.com/superneon4ik">Primary account<a></li>
+        <li><a href="https://twitter.com/superneon4ik_ua">Ukrainian account 🇺🇦<a></li>
+        <li><a href="https://twitter.com/superneon4ik_ua">Japanese account 🇯🇵<a></li>
+      </ul>
+    </li>
+    <li><a href="https://social.kyiv.dcomm.net.ua/@neon">Mastodon</a></li>
+    <li><a href="https://youtube.com/@SuperNeon4ik">YouTube</a></li>
+    <li><a href="https://twitch.tv/SuperNeon4ik">Twitch</a></li>
+    <li><a href="https://open.spotify.com/artist/28pRxb8uBLppv85gXDHyhV?si=21d9eff5909f4823">Spotify</a></li>
+    <li>You should visit <a href="https://superneon4ik.me">my personal website</a> :3</li>
+  </ul>
 </details>
