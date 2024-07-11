@@ -133,19 +133,11 @@
     </tr>
     <tr>
       <td>🇬🇧 English</td>
-      <td>B2 <i>(or better, idk)</i></td>
+      <td>C1</td>
     </tr>
     <tr>
       <td>🇩🇪 Deutsch</td>
       <td>A1</td>
-    </tr>
-    <tr>
-      <td>🇯🇵 日本語</td>
-      <td>Beginner</td>
-    </tr>
-    <tr>
-      <td>🇱🇹 Lietuvių</td>
-      <td>Beginner</td>
     </tr>
   </table>
 </details>
@@ -160,7 +152,7 @@
       <ul>
         <li><a href="https://twitter.com/superneon4ik">Primary account<a></li>
         <li><a href="https://twitter.com/superneon4ik_ua">Ukrainian account 🇺🇦<a></li>
-        <li><a href="https://twitter.com/superneon4ik_ua">Japanese account 🇯🇵<a></li>
+        <li><a href="https://twitter.com/superneon4ik_jp">Japanese account 🇯🇵<a></li>
       </ul>
     </li>
     <li><a href="https://social.kyiv.dcomm.net.ua/@neon">Mastodon</a></li>
