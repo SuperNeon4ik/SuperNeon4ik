@@ -92,12 +92,12 @@
   <img width="750" src="assets/mayhem-logo.jpg" alt="Minecraft Mayhem Logo" />
   <p>I am a plugin developer for a Minecraft Event called "Minecraft Mayhem". You should check it out one day. It's hosted once a month on Saturdays!</p>
   <ul>
+    <li><a href="https://mcmayhem.live/">Website</a></li>
     <li><a href="https://discord.gg/mcmayhem">Discord Server</a></li>
     <li><a href="https://twitter.com/ItsMCMayhem">Twitter/X</a></li>
     <li><a href="https://www.twitch.tv/itsmcmayhem">Twitch</a></li>
     <li><a href="https://www.youtube.com/@itsmcmayhem">YouTube</a></li>
     <li><a href="https://tiktok.com/@itsmcmayhem">TikTok</a></li>
-    <li><a href="https://mcmayhem.live/">Live Scoring Website</a></li>
   </ul>
 
   <h3>NoxesiumUtils</h3>
@@ -135,10 +135,6 @@
       <td>🇬🇧 English</td>
       <td>C1</td>
     </tr>
-    <tr>
-      <td>🇩🇪 Deutsch</td>
-      <td>A1</td>
-    </tr>
   </table>
 </details>
 
@@ -147,15 +143,9 @@
 
   <p>I am everywhere, even in your walls.</p>
   <ul>
-    <li>
-      <p>Twitter/X 🤓</p>
-      <ul>
-        <li><a href="https://twitter.com/superneon4ik">Primary account<a></li>
-        <li><a href="https://twitter.com/superneon4ik_ua">Ukrainian account 🇺🇦<a></li>
-        <li><a href="https://twitter.com/superneon4ik_jp">Japanese account 🇯🇵<a></li>
-      </ul>
-    </li>
+    <li><a href="https://twitter.com/superneon4ik">Twitter<a></li>
     <li><a href="https://social.kyiv.dcomm.net.ua/@neon">Mastodon</a></li>
+    <li><a href="https://bsky.app/profile/superneon4ik.me">Bluesky</a></li>
     <li><a href="https://youtube.com/@SuperNeon4ik">YouTube</a></li>
     <li><a href="https://twitch.tv/SuperNeon4ik">Twitch</a></li>
     <li><a href="https://open.spotify.com/artist/28pRxb8uBLppv85gXDHyhV?si=21d9eff5909f4823">Spotify</a></li>
