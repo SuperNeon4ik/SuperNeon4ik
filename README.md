@@ -49,8 +49,8 @@
     <li>HTML, CSS</li>
     <li>Node.JS</li>
     <li>SvelteKit</li>
-    <li>Express.JS</li>
-    <li>FastAPI</li>
+    <li><s>Express.JS</s></li>
+    <li><s>FastAPI</s></li>
   </ul>
 
   <h3>Application & Game Development</h3>
@@ -59,22 +59,23 @@
     <li>Unity (with C#)</li>
     <li>Python <i>(i am a hater)</i></li>
     <li>C++ <i>(was learning a little. made a gd hack with it, lol)</i></li>
+    <li>Swift <i>(with SwiftUI)</i></li>
   </ul>
 
   <h3>Databases</h3>
   <p>I didn't use any of these much.</p>
   <ul>
+    <li>MySQL</li>
+    <li>SQL Server</li>
     <li>Firebase Firestore</li>
     <li>Firebase Realtime Database</li>
-    <li>MySQL</li>
   </ul>
   
   <h3>Modding</h3>
   <ul>
     <li>Minecraft Spigot/Paper Plugin Development</li>
     <li>Minecraft Forge/Fabric Mod Development <i>(sort of)</i></li>
-    <li>Microsoft Dynamics 365 CRM <i>(didn't do anything fancy either)</i></li>
-    <li>ADOFAI Modding <i>(working with it rn)</i></li>
+    <li>Microsoft Dynamics 365 CRM <i>(do that at my job)</i></li>
   </ul>
 
   <h3>Other</h3>
@@ -144,11 +145,10 @@
   <p>I am everywhere, even in your walls.</p>
   <ul>
     <li><a href="https://twitter.com/superneon4ik">Twitter<a></li>
-    <li><a href="https://social.kyiv.dcomm.net.ua/@neon">Mastodon</a></li>
     <li><a href="https://bsky.app/profile/superneon4ik.me">Bluesky</a></li>
+    <li><a href="https://social.kyiv.dcomm.net.ua/@neon">Mastodon</a></li>
     <li><a href="https://youtube.com/@SuperNeon4ik">YouTube</a></li>
     <li><a href="https://twitch.tv/SuperNeon4ik">Twitch</a></li>
-    <li><a href="https://open.spotify.com/artist/28pRxb8uBLppv85gXDHyhV?si=21d9eff5909f4823">Spotify</a></li>
     <li>You should also visit <a href="https://superneon4ik.me">my personal website</a> :3</li>
   </ul>
 </details>
