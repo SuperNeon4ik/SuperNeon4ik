@@ -2,7 +2,8 @@
 
 <details open>
   <summary><h2>👀 Quick Overview</h2></summary>
-  <p>I'm Nazar, better known online as <b>SuperNeon4ik</b>. I'm 🇺🇦 Ukrainian! <i>(I live in Kyiv, so I am in a reasonably safe place, dw)</i> I'm a little silly, so don't mind. I am not much of an open-source developer, but whatever I can open-source, I will :3</p>
+  <p>I'm Neon and I'm 🇺🇦 Ukrainian! I'm not much of an open-source developer, but whatever I can open-source, I will :3
+  Here most of my work is Minecraft plugins. Rn I'm going through uni, so I don't have much time to do fun stuff, but if I have funzies to do I will.</p>
 
   <div align="center">
     <picture>
@@ -41,48 +42,48 @@
 <details>
   <summary><h2>💪 My Skills</h2></summary>
 
-  <p>I am a self-taught programmer and I've been coding since I was like 9 years old. I praise back-end and hate on front-end, but forced to do both by calling. Currently, I am primarily a Java dev, but I do lots of different things.</p>
+  <p>I am a self-taught programmer and I've been coding since I was like 9 years old. I praise back-end and hate on front-end, but forced to do both by calling. Currently, I am primarily a Java and C# dev, but I do lots of different things.</p>
 
   <h3>Web Technologies</h3>
   <ul>
-    <li>JavaScript</li>
-    <li>HTML, CSS</li>
-    <li>Node.JS</li>
     <li>SvelteKit</li>
-    <li><s>Express.JS</s></li>
-    <li><s>FastAPI</s></li>
+    <li>HTML, CSS</li>
+    <li>JavaScript, TypeScript</li>
   </ul>
 
   <h3>Application & Game Development</h3>
   <ul>
+    <li>Java <i>(duh)</i></li>
     <li>C# (.NET)</li>
-    <li>Unity (with C#)</li>
-    <li>Python <i>(i am a hater)</i></li>
-    <li>C++ <i>(was learning a little. made a gd hack with it, lol)</i></li>
+    <li>Node.JS</li>
+    <li>C, C++ <i>(was learning a little. made a gd hack with it, lol)</i></li>
     <li>Swift <i>(with SwiftUI)</i></li>
+    <li>Python <i>(i am a hater)</i></li>
+    <li>Unity (with C#)</li>
   </ul>
 
   <h3>Databases</h3>
   <p>I didn't use any of these much.</p>
   <ul>
-    <li>MySQL</li>
     <li>SQL Server</li>
-    <li>Firebase Firestore</li>
-    <li>Firebase Realtime Database</li>
+    <li>MySQL</li>
+    <li>MongoDB</li>
+    <li>SQLite</li>
   </ul>
   
   <h3>Modding</h3>
   <ul>
     <li>Minecraft Spigot/Paper Plugin Development</li>
     <li>Minecraft Forge/Fabric Mod Development <i>(sort of)</i></li>
-    <li>Microsoft Dynamics 365 CRM <i>(do that at my job)</i></li>
   </ul>
 
   <h3>Other</h3>
   <ul>
-    <li>GitHub Actions</li>
+    <li>GitHub Actions (CI/CD)</li>
+    <li>Professional Microsoft Dynamics Development</li>
+    <li>Linux server management skills, though not professional</li>
+    <li>Decent understanding of networking</li>
     <li>Chrome/Firefox Extension Development <i>(a little)</i></li>
-    <li>Java <i>(duh)</i></li>    
   </ul>
 </details>
 
@@ -91,7 +92,7 @@
 
   <h3>Minecraft Mayhem</h3>
   <img width="750" src="assets/mayhem-logo.jpg" alt="Minecraft Mayhem Logo" />
-  <p>I am a plugin developer for a Minecraft Event called "Minecraft Mayhem". You should check it out one day. It's hosted once a month on Saturdays!</p>
+  <p>I was a plugin developer for a streamed Minecraft event/tournament called "Minecraft Mayhem". You should check it out one day. It's hosted once a month on Saturdays!</p>
   <ul>
     <li><a href="https://mcmayhem.live/">Website</a></li>
     <li><a href="https://discord.gg/mcmayhem">Discord Server</a></li>
@@ -120,22 +121,30 @@
   <summary><h2>🤓 Languages</h2></summary>
   <p>I am a big nerd and I like learning languages in my free time.</p>
   <table>
-    <tr>
-      <th>Language</th>
-      <th>Proficiency</th>
-    </tr>
-    <tr>
-      <td>🇺🇦 Українська</td>
-      <td>Native</td>
-    </tr>
-    <tr>
-      <td>🏳️ Русский</td>
-      <td>Native</td>
-    </tr>
-    <tr>
-      <td>🇬🇧 English</td>
-      <td>C1</td>
-    </tr>
+    <thead>
+      <tr>
+        <th>Language</th>
+        <th>Proficiency</th>
+      </tr>
+    </thead>
+    <tbody>
+      <tr>
+        <td>🇺🇦 Українська (Ukrainian)</td>
+        <td>Native</td>
+      </tr>
+      <tr>
+        <td>🏳️ Русский (Russian)</td>
+        <td>Native</td>
+      </tr>
+      <tr>
+        <td>🇬🇧 English</td>
+        <td>C1</td>
+      </tr>
+      <tr>
+        <td>🇯🇵 日本語 (Japanese)</td>
+        <td>Beginner (&lt;N5)</td>
+      </tr>
+    </tbody>
   </table>
 </details>
 
@@ -146,7 +155,6 @@
   <ul>
     <li><a href="https://twitter.com/superneon4ik">Twitter<a></li>
     <li><a href="https://bsky.app/profile/superneon4ik.me">Bluesky</a></li>
-    <li><a href="https://social.kyiv.dcomm.net.ua/@neon">Mastodon</a></li>
     <li><a href="https://youtube.com/@SuperNeon4ik">YouTube</a></li>
     <li><a href="https://twitch.tv/SuperNeon4ik">Twitch</a></li>
     <li>You should also visit <a href="https://superneon4ik.me">my personal website</a> :3</li>
